@@ -3,7 +3,7 @@
 > Um compilado honesto (e às vezes emocional) da minha jornada no curso de Inteligência Artificial da EDN. 💻🧠
 
 ### ✨ Conteúdo
-- ✅ Códigos e exercícios para iniciantes.
+- ✅ Códigos e exercícios para iniciantes (como eu).
 - 💡 Dúvidas comuns comentadas com explicações.
 - 📚 Atividades e projetos do curso de IA da EDN.
 
